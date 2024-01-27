@@ -19,9 +19,12 @@
 <P> this miner uses the random X algorithm for cracking Monero Hashes</P>
 <br><h3>Why Random X only ?</h3>
 <br><p>Random X is the only algorithm that is Profitable in CPU Mining .</p>
+<br><p>Only the RandomX algorithm gives a CPU a chance of being profitable when mining.  there’s only 3 coins using it, Monero, Quantum and Veil. Of which Monero is by far the best known.</p>
 <br>
 <h1>Thanks To :</h1><br>
 No One !<br>
 but Only to My Self Gowtham Reddy <br>
 Cuz this Shit isn't Legal !<br>
+<h4>Donate XMR (Crypto Wallet Address ):  47WDZLhN3VHbvfYqbuMLo4XNt5C4Ehtfbc3krR2RnCx3Wb9FaCRxh5h4oTCa3KW2UgRU9koxudbTr7wQxFe45maRAfogQSq </h4>
+
 <h3>Thank-You </h3>
