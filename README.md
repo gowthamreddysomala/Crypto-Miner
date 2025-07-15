@@ -1,30 +1,56 @@
-# Crypto-Miner
-<br>Author : Gowtham Reddy
-<br>
-<h1>Instructions :</h1>
-<h3>I am Not Responsible if Your Pc is Messed Up with Resource Bloat.</h3>
-<h5>Caution : This May Mess Up your Windows PC Resources</h5><br>
-<h2> Usage :</h2><br>
-1) Select the Miner <br>
-        Low-Power Miner <br>
-            (or) <br>
-        High-Power Miner <br>
-2) Low Power is Preffered for Laptops And High power miner For Desktop. <br>
-3)this Miner mines the Monero Crypto Currency (XMR) using your Pc Resources.<br>
-4)just double click the miner to install.<br>
-5)if the PC is Admin Previlaged then use the batch file (example.bat) specified for the miner to bypass Windows Security.<br>
-6) at last the miner will be in the sleath mode.<br>
-<br>
-<h2>About Miner :</h2><br>
-<P> this miner uses the random X algorithm for cracking Monero Hashes</P>
-<br><h3>Why Random X only ?</h3>
-<br><p>Random X is the only algorithm that is Profitable in CPU Mining .</p>
-<br><p>Only the RandomX algorithm gives a CPU a chance of being profitable when mining.  there’s only 3 coins using it, Monero, Quantum and Veil. Of which Monero is by far the best known.</p>
-<br>
-<h1>Thanks To :</h1><br>
-No One !<br>
-but Only to My Self Gowtham Reddy <br>
-Cuz this Shit isn't Legal !<br>
-<h4>Donate XMR (Crypto Wallet Address ):  47WDZLhN3VHbvfYqbuMLo4XNt5C4Ehtfbc3krR2RnCx3Wb9FaCRxh5h4oTCa3KW2UgRU9koxudbTr7wQxFe45maRAfogQSq </h4>
+🪙 Crypto-Miner
+Author: Gowtham Reddy
 
-<h3>Thank-You </h3>
+⚠️ Disclaimer
+I am not responsible for any damage, performance issues, or overheating caused by using this miner.
+Use this tool at your own risk. This software can significantly impact system resources.
+
+🚀 Instructions
+Choose the Miner:
+
+Low-Power Miner (Recommended for laptops)
+
+High-Power Miner (Recommended for desktops)
+
+This miner uses your system’s CPU to mine Monero (XMR).
+
+To start mining:
+
+Simply double-click the appropriate miner executable.
+
+If your PC has Admin privileges, use the provided batch file (e.g., example.bat) to bypass Windows security.
+
+Once launched, the miner will run in stealth mode.
+
+🔍 About the Miner
+This tool utilizes the RandomX algorithm, designed specifically for efficient CPU mining.
+
+❓ Why RandomX?
+RandomX is currently the most profitable CPU mining algorithm.
+
+It’s designed to favor CPUs over GPUs and ASICs.
+
+Only a few coins use it:
+
+Monero (XMR)
+
+Quantum
+
+Veil
+
+Among these, Monero is by far the most trusted and popular.
+
+🤝 Credits
+Nobody helped.
+Only credit goes to myself — Gowtham Reddy.
+
+Because, let’s be honest, this kind of stuff doesn’t come with tech support. 😉
+
+💸 Donate (Monero)
+If you found this useful or made some profits, feel free to support development:
+
+XMR Wallet:
+47WDZLhN3VHbvfYqbuMLo4XNt5C4Ehtfbc3krR2RnCx3Wb9FaCRxh5h4oTCa3KW2UgRU9koxudbTr7wQxFe45maRAfogQSq
+
+🙏 Thank You!
+Happy Mining 💻💰
