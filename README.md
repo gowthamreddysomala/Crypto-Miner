@@ -44,7 +44,7 @@ Among these, Monero is by far the most trusted and popular.
 Nobody helped.
 Only credit goes to myself — Gowtham Reddy.
 
-Because, let’s be honest, this kind of stuff doesn’t come with tech support. 😉
+Because, let’s be honest, this kind of stuff doesn’t come with tech support.
 
 💸 Donate (Monero)
 If you found this useful or made some profits, feel free to support development:
